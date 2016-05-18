@@ -1,0 +1,19 @@
+.welcome {
+    text-align: right;
+}
+.content {
+    width: 70%;
+    text-align: center;
+    font-size: 150%;
+    margin: 0 auto;
+}
+img{
+    margin-right: 7%;
+}
+.icons{
+    margin: 5% 15%;
+}
+.row {
+    position: relative;
+    left: 20px;
+}
